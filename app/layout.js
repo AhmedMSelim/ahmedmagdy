@@ -6,8 +6,8 @@ import { Providers } from "./components/providers/providers";
 import WhatsApp from "./components/WhatsApp/WhatsApp";
 
 export const metadata = {
-  title: "Ahmed's Portfolio",
-  description: "Ahmed Magdy | React & Next.js \n Ahmed's Portfolio Frontend Developer",
+  title: "Ahmed Magdy",
+  description: "Ahmed Magdy | React & Next.js \n Portfolio Frontend Developer",
 };
 
 export default function RootLayout({ children }) {
